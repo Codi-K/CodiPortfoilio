@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+/* Universal Selector*/
+:root{
+    --primaryColor: Black;
+    --secondaryColor: white;
+    --alternativeColor: rgb(221, 255, 0);
+    --boaderColor: #ffa774;
+    font-family: 'Lora', serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Logo */
+#Logo{
+    width: 5rem;
+    
+}
